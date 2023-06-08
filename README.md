@@ -9,4 +9,4 @@ and is separated out by those with normal audiometric thresholds and those with 
 as subplots, using conventional red/round/right blue/x/left conventions.
 
 cite as:
-Carter, J.A. (2023). Average Audiogram Figure. (). Retrieved mm/dd/yyyy.
+Carter, J.A. (2023). Average Audiogram Figure. (https://github.com/JarCart/Audiogram-Figures/tree/main). Retrieved mm/dd/yyyy.
